@@ -1,0 +1,3 @@
+0 Akne
+1 Bengnin
+2 Malinin
